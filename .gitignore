@@ -1,0 +1,3 @@
+model/nezha_base/model.ckpt-900000.data-00000-of-00001
+model/description_model/desc_7_classifier/pytorch_model.bin
+model/bert_chinese_wwm_ext_pytorch/pytorch_model.bin
